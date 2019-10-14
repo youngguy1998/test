@@ -1,5 +1,5 @@
 def multiple():
-    # 九九乘法表函数
+    '''九九乘法表函数'''
     row = 1
     while row < 10:
         col = 1
