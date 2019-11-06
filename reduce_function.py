@@ -4,5 +4,5 @@ def prod(a):
     print(m)
 def f(x, y):
     return x*y
-c = [1,2,3,4]
+c = map(int, input().split(','))
 prod(c)
